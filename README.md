@@ -11,7 +11,7 @@ solar panel and its plate reuses the charging port of a recycled power bank. Thi
 a range of 200 to 300 meters of stable Wi-Fi signal and can survive for more than 5 months without 
 human intervention.
 
-![schematic](doc/Connectify_Free_Wi-Fi__poesia1.png)
+![schematic](doc/Connectify_Free_Wi-Fi__poesia1__bw.png)
 
 The software used is based on a Wi-Fi flooder. It generates spores in the form of Wi-Fi packets and 
 does not allow a stable connection, although they do appear on people’s phones as legitimate Wi-Fi 
